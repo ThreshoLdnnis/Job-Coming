@@ -1,5 +1,7 @@
 # Job-Coming · 七城招聘与实习
 
+![Job-Coming 招聘清单截图](assets/readme-cover.png)
+
 面向找校招和实习的同学，收录北京、上海、广州、深圳、苏州、杭州和南京的 **495 条招聘记录**。其中 **17 条**含实习线索，**12 条**附有已核验的招聘公告入口，筛选自#《岗位总表》（共13248份岗位）。
 
 [打开招聘页面](https://thresholdnnis.github.io/Job-Coming/)
